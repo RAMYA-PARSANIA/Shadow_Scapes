@@ -1,0 +1,132 @@
+index=0
+
+player_health=1000
+diff = 3
+
+bullet1_state=False
+bullet2_state=False
+fireball1_count=0
+fireball2_count=0
+enemy1_health=250
+enemy2_health=250
+enemy3_health=250
+enemy4_health = 250
+enemy5_health = 250
+enemy6_health = 250
+enemy7_health = 250
+enemy8_health = 250
+enemy9_health = 250
+enemy10_health = 250
+enemy11_health = 250
+enemy12_health = 250
+enemy13_health = 250
+enemy14_health = 250
+enemy15_health = 250
+enemy16_health = 250
+
+enemy17_health = 500
+
+player_x=50
+player_y=210
+player_y_velocity = 0
+enemy1_x=720
+enemy1_y=210
+enemy2_x=400
+enemy2_y=210
+enemy3_x=1500
+enemy3_y=210
+enemy4_x=720
+enemy4_y=210
+enemy5_x=720
+enemy5_y=210
+enemy6_x=720
+enemy6_y=210
+enemy7_x=720
+enemy7_y=210
+enemy8_x=720
+enemy8_y=210
+enemy9_x=720
+enemy9_y=210
+enemy10_x=720
+enemy10_y=210
+enemy11_x=720
+enemy11_y=210
+enemy12_x=720
+enemy12_y=210
+enemy13_x=720
+enemy13_y=210
+enemy14_x=720
+enemy14_y=210
+enemy15_x=720
+enemy15_y=210
+enemy16_x=720
+enemy16_y=210
+
+enemy17_x = 850
+enemy17_y = 190
+
+checkmate=1
+bullet_state1=False
+bullet_state2=False
+bullet1_x = enemy2_x
+bullet1_y= enemy2_y
+bullet2_x=enemy2_x-50
+bullet2_y=enemy2_y
+e3_flame_x=enemy3_x-50
+e3_flame_y=enemy3_y
+e3_fireball_x=enemy3_x-10
+e3_fireball_y=enemy3_y
+e3_fireball1_state=False 
+e3_fireball2_state=False 
+e3_flame_state=False
+
+enemy1_alive=False
+enemy2_alive=False
+enemy3_alive=False
+enemy4_alive=False
+enemy5_alive=False
+enemy6_alive=False
+enemy7_alive=False
+enemy8_alive=False
+enemy9_alive=False
+enemy10_alive=False
+enemy11_alive=False
+enemy12_alive=False
+enemy13_alive=False
+enemy14_alive=False
+enemy15_alive=False
+enemy16_alive=False
+enemy17_alive=True
+
+check1=1
+check2=1
+
+e3_fireball1_x=400
+e3_fireball1_y=250
+e3_fireball2_x=400
+e3_fireball2_y=250
+variable=1
+checker=1
+
+index=0
+index1=0
+index2_run=0
+index2_attack=0
+index3_run=0
+index3_attack=0
+index3=0
+index_firethrow1=0
+index_firethrow2=0
+
+time=0
+animation_time=0.1
+z=0
+a=1
+player_f_x = 150
+player_f_y = 210
+princess_x = 120
+princess_y = 210
+indexp = 0
+fscreen = 0
+
+gameO = 0
