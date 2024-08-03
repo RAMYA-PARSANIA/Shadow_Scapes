@@ -1,8 +1,7 @@
 # Shadowscapes
 ## How to install and run the game:
-Click on the link , and extract the zip folder and right click and click on open in terminal. Then type "python shadowscapes_main.py" to play.
+Extract the zip folder and right click and click on open in terminal. Then type "python shadowscapes_main.py" to play.
 
-https://github.com/akrabc/Shadowscapes/blob/main/ShadowScapes.zip
 ## About the game:
 Theme: Sneaking through the silent shadows.
 The main objective of the game is to protect the princess from the enemies. There are multiple levels in the game, the user has to fight multiple enemies across different levels to save the princess.
